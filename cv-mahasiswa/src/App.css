@@ -14,12 +14,12 @@ body {
 }
 
 .container {
-  max-width: 780px; /* Lebar standar feed */
+  max-width: 780px; 
   margin: 0 auto;
   padding: 0 10px;
   display: flex;
   flex-direction: column;
-  gap: 10px; /* Jarak antar kartu */
+  gap: 10px; 
 }
 
 .card {
@@ -47,7 +47,7 @@ body {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background-color: #a0b4b7; /* Warna cadangan kalau gambar loading */
+  background-image: url('https://i.pinimg.com/1200x/54/2b/37/542b374a2598445c02579c0fd0a27285.jpg');
 }
 
 .profile-content {
