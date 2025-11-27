@@ -16,8 +16,7 @@ const ProfileCard = () => {
         <span className="location">{location}</span>
         
         <div className="action-buttons">
-          <a href={portfo
-            lio_url} target="_blank" className="btn btn-primary">Open to work</a>
+          <a href={portfolio_url} target="_blank" className="btn btn-primary">Open to work</a>
           <button className="btn btn-outline">More</button>
         </div>
       </div>
