@@ -13,10 +13,11 @@ const ProfileCard = () => {
         
         <h1 className="name">{full_name}</h1>
         <p className="headline">{headline}</p>
-        <span className="location">{location}</span>
+        <h4 className="location">{location}</h4>
+        <br></br>
         
         <div className="action-buttons">
-          <a href={portfolio_url} target="_blank" className="btn btn-primary">Open to work</a>
+          <a href={portfolio_url} target="_blank" className="btn btn-primary">Portofolio</a>
           <button className="btn btn-outline">More</button>
         </div>
       </div>
