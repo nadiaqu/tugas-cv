@@ -1,7 +1,7 @@
 # Laporan Tugas Single Page Application (SPA) - CV Mahasiswa
 
-**Nama:** [ISI NAMA KAMU DISINI]  
-**NIM:** [ISI NIM KAMU DISINI]  
+**Nama:** Nadia Qurrotu Ainina
+**NIM:** L200239282
 **Mata Kuliah:** Pemrograman Web Berbasis Framework
 
 ---
@@ -35,7 +35,7 @@ Jika ingin menjalankan project ini di komputer lokal, ikuti langkah berikut:
 
 1.  **Clone Repository**
     ```bash
-    git clone [LINK_REPO_GITHUB_KAMU]
+    git clone https://github.com/nadiaqu/tugas-cv
     ```
 
 2.  **Masuk ke Folder Project**
@@ -59,4 +59,4 @@ Jika ingin menjalankan project ini di komputer lokal, ikuti langkah berikut:
 ## 4. Screenshot Tampilan
 
 **Tampilan Desktop:**
-![Tampilan CV](src/tangkapan layar.jpeg)
+![Tampilan CV](public/tangkapan layar.jpeg)
