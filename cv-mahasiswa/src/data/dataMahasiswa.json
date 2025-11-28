@@ -13,11 +13,15 @@
     "portfolio_url": "https://github.com/nadiaqu"
   },
   "skills": [
-    { "id": 1, "name": "ReactJS" },
-    { "id": 2, "name": "Python" },
-    { "id": 3, "name": "Data Mining" },
+    { "id": 1, "name": "Web Development" },
+    { "id": 2, "name": "Data Analysis" },
+    { "id": 3, "name": "Data Visualization" },
     { "id": 4, "name": "UI/UX Design" },
-    { "id": 5, "name": "" }
+    { "id": 5, "name": "Library Services" },
+    { "id": 6, "name": "Financial Management" },
+    { "id": 7, "name": "Administration Management" },
+    { "id": 8, "name": "Cataloging" },
+    { "id": 9, "name": "Library Services" }
   ],
   "experiences": [
     {
@@ -26,7 +30,7 @@
       "organization": "Computer Lab FKI UMS",
       "start_date": "Sep 2025",
       "end_date": "Present",
-      "description": "Membantu dosen dalam kegiatan praktikum dan mengelola inventaris laboratorium.",
+      "description": "Membantu dosen dalam kegiatan praktikum.",
       "image_url": "https://news.ums.ac.id/id/wp-content/uploads/sites/2/2022/12/Resmi_Logo_UMS_Color-1024x1024.png"
     },
     {
@@ -46,6 +50,15 @@
       "end_date": "Present",
       "description": "Mengelola keuangan organisasi.",
       "image_url": "https://tse3.mm.bing.net/th/id/OIP.XaUdzzXmSRvD-NtlN3WIqgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": 104,
+      "title": "Duta Perpustakaan UMS",
+      "organization": "UMS Library and Digital Services Center",
+      "start_date": "Jan 2025",
+      "end_date": "Present",
+      "description": "Melayani pemustaka.",
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP._CEeRNdUnrjpVpCyBbkdHwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
     }
   ]
 }
