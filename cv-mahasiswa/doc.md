@@ -26,7 +26,7 @@ Aplikasi ini adalah sebuah **Digital Curriculum Vitae (CV)** berbasis web yang d
 ## 2. Link Deployment
 Aplikasi ini telah di-deploy dan dapat diakses secara publik melalui tautan berikut:
 
-🔗 **Live Demo:** [TEMPEL LINK VERCEL KAMU DISINI NANTI]
+🔗 **Live Demo:** [https://curriculum-vitae-taupe-eight.vercel.app/]
 
 ---
 
@@ -59,4 +59,4 @@ Jika ingin menjalankan project ini di komputer lokal, ikuti langkah berikut:
 ## 4. Screenshot Tampilan
 
 **Tampilan Desktop:**
-`tangkapan layar.jpg`
+![Tampilan CV](src/tangkapan layar.jpeg)
